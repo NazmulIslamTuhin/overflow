@@ -1,0 +1,60 @@
+/* .overflow{
+    margin: 50px;
+    padding: 100px;
+    width: 300px;
+    height: 200px;
+    border: 1px solid #000;
+    overflow: scroll; */
+/* 
+} */
+.menu{
+    margin: 0;
+    padding: 0;
+    background-color: yellow;
+}
+.background-image{
+    background-size: cover;
+    background-repeat: no-repeat;
+    display:flex;
+    flex-direction: column;
+    opacity: 110%;
+    position: relative;
+    
+
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+ul li {
+    display: inline-block;
+    padding: 10px 20px;
+}
+
+ul li a {
+    text-decoration: none;
+    color: rgb(12, 12, 12);
+
+}
+
+ul li:hover {
+    background-color: rgb(239, 7, 7);
+}
+
+ul li:hover a {
+    color: rgb(11, 11, 11);
+}
+.text{
+    font-size: 50px;
+    color: aqua;
+    position: absolute;
+    margin: 100px;
+    margin-top: 20px;
+    margin-left: 200px;
+    margin-right: 100px;
+    
+    
+}
